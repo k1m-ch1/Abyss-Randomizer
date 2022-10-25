@@ -6,3 +6,8 @@
 	Just finished 12 hours python course.
 	Built in 2 days.
 	Full of bugs.
+	Windows only
+	Needs local disk C:\
+	
+	THE DESIGN IS VERY HUMAN 
+	
